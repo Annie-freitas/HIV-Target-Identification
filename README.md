@@ -1,6 +1,5 @@
 **HIV-Target-Identification**
 
-**HIV-Target-Identification**
 
 The primary goal of this project is to identify potential therapeutic targets for Human Immunodeficiency Virus (HIV) by analyzing host-pathogen interactions. By pinpointing crucial host genes and proteins involved in HIV replication and pathogenesis, the project aims to facilitate the development of novel treatment strategies.
 
